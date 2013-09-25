@@ -1,9 +1,9 @@
-#movieratings.py
-#This is from/inspired by "Introduction to Machine Learning" by Andrew Ng on Coursera.
-#The class was conducted in Matlab.  I converted the recommender systems exercise into
-#python.  This was part 2 of homework exercise 8.
+# movieratings.py
+# This is from/inspired by "Introduction to Machine Learning" by Andrew Ng on Coursera.
+# The class was conducted in Matlab.  I converted the recommender systems exercise into
+# python.  This was part 2 of homework exercise 8.
 
-#Works best with ipython pylab
+# Works best with ipython pylab
 
 import matplotlib.pyplot as plt
 import numpy as np
